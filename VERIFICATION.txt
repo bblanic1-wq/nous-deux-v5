@@ -1,0 +1,7 @@
+100 défis: OK
+100 questions: OK
+25 rubriques: OK
+PWA manifest: OK
+offline worker: OK
+AES-GCM: OK
+ND5: OK
